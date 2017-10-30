@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="12.50%p"
+    android:keyHeight="10.00%p"
+    >
+    <Row>
+        <Key android:codes="55008" android:keyLabel="\u33D2" android:keyEdgeFlags="left"/>
+        <Key android:codes="55009" android:keyLabel="\u212F" android:keyEdgeFlags="right"/>
+    </Row>
+</Keyboard>

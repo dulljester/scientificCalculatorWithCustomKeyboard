@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grecianBlue">#2988BC</color>
+    <color name="sea">#2F496E</color>
+    <color name="plaster">#F4EADE</color>
+    <color name="coral">#ED8C72</color>
+    <item name="deep_aqua" type="color">#003B46</item>
+    <item name="ocean" type="color">#07575B</item>
+    <item name="wave" type="color">#66A5AD</item>
+    <item name="seafoam" type="color">#C4DFE6</item>
+
+    <!--Icy blues-->
+    <item name="overcast" type="color">#F1F1F2</item>
+    <item name="warm_gray" type="color">#BCBABE</item>
+    <item name="ice" type="color">#A1D6E2</item>
+    <item name="glacier_blue" type="color">#1995AD</item>
+
+    <!--25. Timeless and nautical-->
+    <item name="navy" type="color">#00293C</item>
+    <item name="peacock_blue" type="color">#1E656D</item>
+    <item name="ivory" type="color">#F1F3CE</item>
+    <item name="candy_apple" type="color">#F62A00</item>
+
+    <!--30. Berry Blues-->
+    <item name="midnight_blue" type="color">#1E1F26</item>
+    <item name="indigo_ink" type="color">#283655</item>
+    <item name="blueberry" type="color">#4D648D</item>
+    <item name="periwinkle" type="color">#D0E1F9</item>
+
+    <!--54. Modern and Urban-->
+    <item name="sunshine" type="color">#F9BA32</item>
+    <item name="steel_blue" type="color">#426E86</item>
+    <item name="bone" type="color">#F8F1E5</item>
+    <item name="coal" type="color">#2F3131</item>
+
+    <!--64. Cheerful and Friendly-->
+    <item name="dark_teal" type="color">#2B616D</item>
+    <item name="arctic" type="color">#B2DBD5</item>
+    <item name="white_cloud" type="color">#FFFFFF</item>
+    <item name="brick" type="color">#FA8D62</item>
+
+    <!--67. Maritime Brights-->
+    <item name="saltwater" type="color">#257985</item>
+    <item name="lagoon" type="color">#5EA8A7</item>
+    <item name="whitewash" type="color">#FFFFFF</item>
+    <item name="rasberry" type="color">#FF4447</item>
+
+    <!--85. Classic Metallics-->
+    <item name="black_steel" type="color">#080706</item>
+    <item name="paper" type="color">#EFEFEF</item>
+    <item name="gold_leaf" type="color">#D1B280</item>
+    <item name="silver" type="color">#594D46</item>
+</resources>
